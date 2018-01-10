@@ -1,6 +1,6 @@
 import tt
 
-from ttlaplace.zoperations import zkronv
+from qtt_laplace.zoperations import zkronv
 
 
 def gen_mask(xbc, ybc, d):

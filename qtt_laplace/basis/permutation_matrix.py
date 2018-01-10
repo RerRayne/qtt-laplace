@@ -3,8 +3,8 @@ import itertools
 import numpy as np
 import tt
 
-from ttlaplace.utils import tt_build_from_list
-from ttlaplace.zoperations import zkron
+from qtt_laplace.utils import tt_build_from_list
+from qtt_laplace.zoperations import zkron
 
 
 def get_permutation_matrix(d):

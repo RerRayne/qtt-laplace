@@ -1,6 +1,6 @@
 # coding=UTF-8
 
-from ttlaplace.zoperations import zaffine
+from qtt_laplace.zoperations import zaffine
 
 
 def interpolate_linear(f, d):

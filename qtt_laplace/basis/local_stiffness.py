@@ -2,7 +2,7 @@
 
 import numpy as np
 
-from ttlaplace.basis.integrate_basis import get_local_stiffness_integral
+from qtt_laplace.basis.integrate_basis import get_local_stiffness_integral
 
 
 def stiffness_values(x_numbers, y_numbers, lx_1, ly_1, lx_2, ly_2, mesh_container, basis_class, leggauss_deg=1):

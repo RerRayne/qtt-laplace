@@ -3,7 +3,7 @@ from __future__ import print_function
 
 import itertools
 
-import ttlaplace.utils as tt_utils
+import qtt_laplace.utils as tt_utils
 
 from numpy.polynomial.legendre import leggauss
 

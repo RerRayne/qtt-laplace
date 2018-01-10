@@ -2,9 +2,9 @@
 import numpy as np
 import tt
 
-from ttlaplace.basis.linear_basis.interpolate_linear import interpolate_linear
-from ttlaplace.basis.permutation_matrix import get_permutation_matrix
-from ttlaplace.utils import det
+from qtt_laplace.basis.linear_basis.interpolate_linear import interpolate_linear
+from qtt_laplace.basis.permutation_matrix import get_permutation_matrix
+from qtt_laplace.utils import det
 
 
 def get_jacobian_components(mesh_container):

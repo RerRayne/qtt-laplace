@@ -6,7 +6,7 @@ from scipy.spatial import Delaunay
 
 import tt
 
-from ttlaplace.zoperations import zkronv
+from qtt_laplace.zoperations import zkronv
 
 
 def plot_patch(mesh_container, x, d, vmin=0, vmax=1, contours=True):

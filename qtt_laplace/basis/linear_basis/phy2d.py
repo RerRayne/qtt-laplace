@@ -1,7 +1,7 @@
 # coding=UTF-8
 import numpy as np
 
-from ttlaplace.basis.linear_basis.phi1d import LinearPhi1D
+from qtt_laplace.basis.linear_basis.phi1d import LinearPhi1D
 
 
 class LinearPhi2D:
