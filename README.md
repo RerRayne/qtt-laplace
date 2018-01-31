@@ -8,9 +8,9 @@ As a result, this approach has slow approximation ranks growing and consumes muc
 
 ![qtt-laplace bench](img/bench.jpg)
 
-The left plot -- energy error from vertices number. 
-The middle plot -- erank growing from approximation accuracy. 
-The right plot -- a peak memory consumption from vertices number.
+The left plot is an energy error from vertices number. 
+The middle plot is a erank growing from approximation accuracy. 
+The right plot is a peak memory consumption from vertices number.
 
 Related publications
 =====================
