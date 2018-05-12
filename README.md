@@ -40,4 +40,4 @@ For any questions, please create an issue on Github.
 Authors
 =======
 
-This package are made by [Markeeva L.](https://github.com/RerRayne) and [Tsybulin I.](https://github.com/uranix)
+This package is made by [Markeeva L.](https://github.com/RerRayne) and [Tsybulin I.](https://github.com/uranix)
